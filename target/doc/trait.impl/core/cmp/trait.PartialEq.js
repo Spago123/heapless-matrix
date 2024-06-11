@@ -1,0 +1,3 @@
+(function() {var implementors = {
+"heapless_matrix":[["impl&lt;const ROWS: <a class=\"primitive\" href=\"https://doc.rust-lang.org/1.78.0/std/primitive.usize.html\">usize</a>, const COLS: <a class=\"primitive\" href=\"https://doc.rust-lang.org/1.78.0/std/primitive.usize.html\">usize</a>&gt; <a class=\"trait\" href=\"https://doc.rust-lang.org/1.78.0/core/cmp/trait.PartialEq.html\" title=\"trait core::cmp::PartialEq\">PartialEq</a> for <a class=\"struct\" href=\"heapless_matrix/struct.Matrix.html\" title=\"struct heapless_matrix::Matrix\">Matrix</a>&lt;ROWS, COLS&gt;"]]
+};if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

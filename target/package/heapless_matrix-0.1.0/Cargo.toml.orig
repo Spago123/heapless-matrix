@@ -1,0 +1,13 @@
+[package]
+name = "heapless_matrix"
+authors = ["Spago Harun hspago1@etf.unsa.ba"]
+version = "0.1.0"
+edition = "2021"
+license = "MIT OR Apache-2.0"
+description = "This crate provides a simple and efficient implementation of a matrix data structure in Rust. It offers functionality for creating, manipulating, and performing operations on matrices, such as transposition, summation, and multiplication."
+repository = "https://github.com/Spago123/heapless-matrix"
+readme = "README.md"
+keywords = ["matrix", "linear-algebra", "heapless", "rust"]
+
+[dependencies]
+heapless = "0.8.0"

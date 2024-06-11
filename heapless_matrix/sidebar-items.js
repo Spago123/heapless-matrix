@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"mod":["matrix_ops","matrix_trait"],"struct":["Matrix"]};
